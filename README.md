@@ -1,8 +1,34 @@
-# React + Vite
+#  University Website (React.js)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **University Website** built using **React.js**. This single-page application showcases university programs, departments — designed with a clean UI and smooth user experience.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+##  Features
+
+-  Single Page Application using React Router
+-  Responsive design (mobile & desktop)
+-  Department and Program listings
+-  Faculty and Staff profiles
+-  News / Events section
+-  Contact form (static or optionally integrated with email services)
+- Clean code structure and reusable components
+
+---
+
+##  Tech Stack
+
+- **React.js** – Frontend library
+- **React Router** – Client-side routing
+- **HTML5** & **CSS3** – Layout and styling
+- **CSS**
+
+---
+
+## Demo
+
+
+
+https://github.com/user-attachments/assets/5712ab03-2565-4750-a952-c85ee7fe6f8f
+
